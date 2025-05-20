@@ -1,4 +1,3 @@
-import React from 'react';
 import { motion } from 'framer-motion';
 const fadeInUp = {
   hidden: { opacity: 0, y: 30 },
